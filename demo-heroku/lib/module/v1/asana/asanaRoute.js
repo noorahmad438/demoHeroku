@@ -1,6 +1,6 @@
 const asanaRouter = require("express").Router();
 
-const resHndlr = require('../../../responseHandler');
+
 const middleware = require("../../../middleware");
 
 const constants = require("../../../constant");

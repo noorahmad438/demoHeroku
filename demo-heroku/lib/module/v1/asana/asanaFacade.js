@@ -1,6 +1,5 @@
 "use strict";
 
-const jwtHandler = require("../../jwtHandler");
 const asanaService = require("./asanaService");
 const asanaMapper = require("./asanaMapper");
 

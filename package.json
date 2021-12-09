@@ -10,6 +10,15 @@
     "author": "Noor Ahmad",
     "license": "ISC",
     "dependencies": {
-        "express": "^4.17.1"
+        "bcrypt": "^5.0.1",
+        "bluebird": "^3.7.2",
+        "bunyan": "^1.8.15",
+        "express": "^4.17.1",
+        "loadash": "^1.0.0",
+        "lodash": "^4.17.21",
+        "mongoose": "^6.1.0",
+        "randomstring": "^1.2.1",
+        "redis": "^4.0.0",
+        "sha256": "^0.2.0"
     }
 }
